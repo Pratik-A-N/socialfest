@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/socialfest/static/css/main.a47a45a6.css",
-    "main.js": "/socialfest/static/js/main.b426ac44.js",
+    "main.js": "/socialfest/static/js/main.09fbab2a.js",
     "static/js/787.d1a50706.chunk.js": "/socialfest/static/js/787.d1a50706.chunk.js",
     "static/media/bg.jpeg": "/socialfest/static/media/bg.e164d9c6619f51fa8a4c.jpeg",
     "static/media/Lexend-VariableFont_wght.ttf": "/socialfest/static/media/Lexend-VariableFont_wght.ca595aeaae636593c5fe.ttf",
@@ -10,11 +10,11 @@
     "index.html": "/socialfest/index.html",
     "static/media/person.svg": "/socialfest/static/media/person.1bde0610db92d7c5284d42693c0b6eaa.svg",
     "main.a47a45a6.css.map": "/socialfest/static/css/main.a47a45a6.css.map",
-    "main.b426ac44.js.map": "/socialfest/static/js/main.b426ac44.js.map",
+    "main.09fbab2a.js.map": "/socialfest/static/js/main.09fbab2a.js.map",
     "787.d1a50706.chunk.js.map": "/socialfest/static/js/787.d1a50706.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a47a45a6.css",
-    "static/js/main.b426ac44.js"
+    "static/js/main.09fbab2a.js"
   ]
 }
