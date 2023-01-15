@@ -1,20 +1,30 @@
 {
   "files": {
-    "main.css": "/socialfest/static/css/main.a47a45a6.css",
-    "main.js": "/socialfest/static/js/main.09fbab2a.js",
+    "main.css": "/socialfest/static/css/main.4da74ed0.css",
+    "main.js": "/socialfest/static/js/main.fcc7f064.js",
     "static/js/787.d1a50706.chunk.js": "/socialfest/static/js/787.d1a50706.chunk.js",
+    "static/media/eq.png": "/socialfest/static/media/eq.7d3291133cc2b6df3580.png",
+    "static/media/leadership.png": "/socialfest/static/media/leadership.b8928e0326b82cf0bb99.png",
+    "static/media/self defense.png": "/socialfest/static/media/self defense.23de0b6e361bd9ec93cd.png",
     "static/media/bg.jpeg": "/socialfest/static/media/bg.e164d9c6619f51fa8a4c.jpeg",
+    "static/media/RubikMoonrocks-Regular.ttf": "/socialfest/static/media/RubikMoonrocks-Regular.9a63461baa64bd258a97.ttf",
     "static/media/Lexend-VariableFont_wght.ttf": "/socialfest/static/media/Lexend-VariableFont_wght.ca595aeaae636593c5fe.ttf",
+    "static/media/manual.jpeg": "/socialfest/static/media/manual.f4a1ed062d5dab17f4da.jpeg",
+    "static/media/block.jpeg": "/socialfest/static/media/block.00a2cc5b7c6fda0230f1.jpeg",
+    "static/media/cpr.jpeg": "/socialfest/static/media/cpr.5dd3567e9c5a9a51c774.jpeg",
+    "static/media/cyber.jpeg": "/socialfest/static/media/cyber.858f2830351734eb46e5.jpeg",
+    "static/media/CarterOne-Regular.ttf": "/socialfest/static/media/CarterOne-Regular.077c4bbc891d504d9751.ttf",
     "static/media/final.svg": "/socialfest/static/media/final.1bd7d4c2627ae21796fbffaea57ae8ff.svg",
+    "static/media/about.png": "/socialfest/static/media/about.b6aae605e6c2633026e2.png",
     "static/media/dow.png": "/socialfest/static/media/dow.4d59d4d7dfd9586a2191.png",
     "index.html": "/socialfest/index.html",
     "static/media/person.svg": "/socialfest/static/media/person.1bde0610db92d7c5284d42693c0b6eaa.svg",
-    "main.a47a45a6.css.map": "/socialfest/static/css/main.a47a45a6.css.map",
-    "main.09fbab2a.js.map": "/socialfest/static/js/main.09fbab2a.js.map",
+    "main.4da74ed0.css.map": "/socialfest/static/css/main.4da74ed0.css.map",
+    "main.fcc7f064.js.map": "/socialfest/static/js/main.fcc7f064.js.map",
     "787.d1a50706.chunk.js.map": "/socialfest/static/js/787.d1a50706.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a47a45a6.css",
-    "static/js/main.09fbab2a.js"
+    "static/css/main.4da74ed0.css",
+    "static/js/main.fcc7f064.js"
   ]
 }
