@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/socialfest/static/css/main.ac90711f.css",
-    "main.js": "/socialfest/static/js/main.c1811bf9.js",
+    "main.js": "/socialfest/static/js/main.155a23f2.js",
     "static/js/787.d1a50706.chunk.js": "/socialfest/static/js/787.d1a50706.chunk.js",
     "static/media/socio tech.png": "/socialfest/static/media/socio tech.7870de61ae115bb3d466.png",
     "static/media/rap.png": "/socialfest/static/media/rap.fcb29d570b58590960d6.png",
@@ -12,6 +12,7 @@
     "static/media/bg.jpeg": "/socialfest/static/media/bg.e164d9c6619f51fa8a4c.jpeg",
     "static/media/diffable.png": "/socialfest/static/media/diffable.7c6090ebeb34c7c11145.png",
     "static/media/RubikMoonrocks-Regular.ttf": "/socialfest/static/media/RubikMoonrocks-Regular.9a63461baa64bd258a97.ttf",
+    "static/media/women.jpg": "/socialfest/static/media/women.6c30ac45faefe1aa0ea2.jpg",
     "static/media/sam.jpg": "/socialfest/static/media/sam.4c6a6125465808394b75.jpg",
     "static/media/Lexend-VariableFont_wght.ttf": "/socialfest/static/media/Lexend-VariableFont_wght.ca595aeaae636593c5fe.ttf",
     "static/media/manual.jpeg": "/socialfest/static/media/manual.f4a1ed062d5dab17f4da.jpeg",
@@ -25,11 +26,11 @@
     "index.html": "/socialfest/index.html",
     "static/media/person.svg": "/socialfest/static/media/person.1bde0610db92d7c5284d42693c0b6eaa.svg",
     "main.ac90711f.css.map": "/socialfest/static/css/main.ac90711f.css.map",
-    "main.c1811bf9.js.map": "/socialfest/static/js/main.c1811bf9.js.map",
+    "main.155a23f2.js.map": "/socialfest/static/js/main.155a23f2.js.map",
     "787.d1a50706.chunk.js.map": "/socialfest/static/js/787.d1a50706.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac90711f.css",
-    "static/js/main.c1811bf9.js"
+    "static/js/main.155a23f2.js"
   ]
 }
