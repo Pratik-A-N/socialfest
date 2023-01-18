@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/socialfest/static/css/main.ac90711f.css",
-    "main.js": "/socialfest/static/js/main.f24a2635.js",
+    "main.js": "/socialfest/static/js/main.5dcbf310.js",
     "static/js/787.d1a50706.chunk.js": "/socialfest/static/js/787.d1a50706.chunk.js",
     "static/media/socio tech.png": "/socialfest/static/media/socio tech.7870de61ae115bb3d466.png",
     "static/media/rap.png": "/socialfest/static/media/rap.fcb29d570b58590960d6.png",
@@ -11,6 +11,7 @@
     "static/media/self defense.png": "/socialfest/static/media/self defense.23de0b6e361bd9ec93cd.png",
     "static/media/bg.jpeg": "/socialfest/static/media/bg.e164d9c6619f51fa8a4c.jpeg",
     "static/media/diffable.png": "/socialfest/static/media/diffable.7c6090ebeb34c7c11145.png",
+    "static/media/csrc.png": "/socialfest/static/media/csrc.d2bb3273b6d735e94a7d.png",
     "static/media/ananyabirla.png": "/socialfest/static/media/ananyabirla.aae206c73b45a9cafaef.png",
     "static/media/RubikMoonrocks-Regular.ttf": "/socialfest/static/media/RubikMoonrocks-Regular.9a63461baa64bd258a97.ttf",
     "static/media/women.jpg": "/socialfest/static/media/women.6c30ac45faefe1aa0ea2.jpg",
@@ -27,11 +28,11 @@
     "index.html": "/socialfest/index.html",
     "static/media/person.svg": "/socialfest/static/media/person.1bde0610db92d7c5284d42693c0b6eaa.svg",
     "main.ac90711f.css.map": "/socialfest/static/css/main.ac90711f.css.map",
-    "main.f24a2635.js.map": "/socialfest/static/js/main.f24a2635.js.map",
+    "main.5dcbf310.js.map": "/socialfest/static/js/main.5dcbf310.js.map",
     "787.d1a50706.chunk.js.map": "/socialfest/static/js/787.d1a50706.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac90711f.css",
-    "static/js/main.f24a2635.js"
+    "static/js/main.5dcbf310.js"
   ]
 }
