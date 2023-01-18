@@ -1,11 +1,10 @@
 {
   "files": {
     "main.css": "/socialfest/static/css/main.ac90711f.css",
-    "main.js": "/socialfest/static/js/main.824d9723.js",
+    "main.js": "/socialfest/static/js/main.fe81bfe4.js",
     "static/js/787.d1a50706.chunk.js": "/socialfest/static/js/787.d1a50706.chunk.js",
     "static/media/socio tech.png": "/socialfest/static/media/socio tech.7870de61ae115bb3d466.png",
     "static/media/rap.png": "/socialfest/static/media/rap.fcb29d570b58590960d6.png",
-    "static/media/eq.png": "/socialfest/static/media/eq.7d3291133cc2b6df3580.png",
     "static/media/check.png": "/socialfest/static/media/check.4598de2d4781d9b024de.png",
     "static/media/leadership.png": "/socialfest/static/media/leadership.b8928e0326b82cf0bb99.png",
     "static/media/self defense.png": "/socialfest/static/media/self defense.23de0b6e361bd9ec93cd.png",
@@ -30,11 +29,11 @@
     "index.html": "/socialfest/index.html",
     "static/media/person.svg": "/socialfest/static/media/person.1bde0610db92d7c5284d42693c0b6eaa.svg",
     "main.ac90711f.css.map": "/socialfest/static/css/main.ac90711f.css.map",
-    "main.824d9723.js.map": "/socialfest/static/js/main.824d9723.js.map",
+    "main.fe81bfe4.js.map": "/socialfest/static/js/main.fe81bfe4.js.map",
     "787.d1a50706.chunk.js.map": "/socialfest/static/js/787.d1a50706.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac90711f.css",
-    "static/js/main.824d9723.js"
+    "static/js/main.fe81bfe4.js"
   ]
 }
