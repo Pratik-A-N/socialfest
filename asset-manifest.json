@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/socialfest/static/css/main.ac90711f.css",
-    "main.js": "/socialfest/static/js/main.5f83948b.js",
+    "main.js": "/socialfest/static/js/main.69faf29f.js",
     "static/js/787.d1a50706.chunk.js": "/socialfest/static/js/787.d1a50706.chunk.js",
     "static/media/concert.png": "/socialfest/static/media/concert.0d869aa21741b59406df.png",
     "static/media/expo.png": "/socialfest/static/media/expo.e17ef4ccab4b04a7a889.png",
@@ -11,6 +11,7 @@
     "static/media/leadership.png": "/socialfest/static/media/leadership.b8928e0326b82cf0bb99.png",
     "static/media/self defense.png": "/socialfest/static/media/self defense.23de0b6e361bd9ec93cd.png",
     "static/media/media.png": "/socialfest/static/media/media.446d40b4d9d2a3cd5180.png",
+    "static/media/thea.png": "/socialfest/static/media/thea.09f2779a19c0850afa69.png",
     "static/media/bg.jpeg": "/socialfest/static/media/bg.e164d9c6619f51fa8a4c.jpeg",
     "static/media/diffable.png": "/socialfest/static/media/diffable.7c6090ebeb34c7c11145.png",
     "static/media/csrc.png": "/socialfest/static/media/csrc.d2bb3273b6d735e94a7d.png",
@@ -32,11 +33,11 @@
     "index.html": "/socialfest/index.html",
     "static/media/person.svg": "/socialfest/static/media/person.1bde0610db92d7c5284d42693c0b6eaa.svg",
     "main.ac90711f.css.map": "/socialfest/static/css/main.ac90711f.css.map",
-    "main.5f83948b.js.map": "/socialfest/static/js/main.5f83948b.js.map",
+    "main.69faf29f.js.map": "/socialfest/static/js/main.69faf29f.js.map",
     "787.d1a50706.chunk.js.map": "/socialfest/static/js/787.d1a50706.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac90711f.css",
-    "static/js/main.5f83948b.js"
+    "static/js/main.69faf29f.js"
   ]
 }
