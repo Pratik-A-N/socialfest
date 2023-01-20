@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/socialfest/static/css/main.ac90711f.css",
-    "main.js": "/socialfest/static/js/main.69faf29f.js",
+    "main.css": "/socialfest/static/css/main.06a2540a.css",
+    "main.js": "/socialfest/static/js/main.87679379.js",
     "static/js/787.d1a50706.chunk.js": "/socialfest/static/js/787.d1a50706.chunk.js",
     "static/media/concert.png": "/socialfest/static/media/concert.0d869aa21741b59406df.png",
     "static/media/expo.png": "/socialfest/static/media/expo.e17ef4ccab4b04a7a889.png",
@@ -20,24 +20,29 @@
     "static/media/RubikMoonrocks-Regular.ttf": "/socialfest/static/media/RubikMoonrocks-Regular.9a63461baa64bd258a97.ttf",
     "static/media/women.jpg": "/socialfest/static/media/women.6c30ac45faefe1aa0ea2.jpg",
     "static/media/pehchan.jpeg": "/socialfest/static/media/pehchan.eabeb6d93263e6605572.jpeg",
+    "static/media/tit.png": "/socialfest/static/media/tit.1af51a3acc890ef152db.png",
+    "static/media/aso-2.png": "/socialfest/static/media/aso-2.922a6632d6a145edad1c.png",
+    "static/media/pow.png": "/socialfest/static/media/pow.a8baac0ce0e9598bc205.png",
+    "static/media/aso-1.png": "/socialfest/static/media/aso-1.add999418bf0d2d5a5d0.png",
     "static/media/sam.jpg": "/socialfest/static/media/sam.4c6a6125465808394b75.jpg",
     "static/media/Lexend-VariableFont_wght.ttf": "/socialfest/static/media/Lexend-VariableFont_wght.ca595aeaae636593c5fe.ttf",
     "static/media/manual.jpeg": "/socialfest/static/media/manual.f4a1ed062d5dab17f4da.jpeg",
     "static/media/block.jpeg": "/socialfest/static/media/block.00a2cc5b7c6fda0230f1.jpeg",
     "static/media/cpr.jpeg": "/socialfest/static/media/cpr.5dd3567e9c5a9a51c774.jpeg",
     "static/media/cyber.jpeg": "/socialfest/static/media/cyber.858f2830351734eb46e5.jpeg",
+    "static/media/logo2.png": "/socialfest/static/media/logo2.b14f01ec9954dc08c1f0.png",
     "static/media/CarterOne-Regular.ttf": "/socialfest/static/media/CarterOne-Regular.077c4bbc891d504d9751.ttf",
     "static/media/final.svg": "/socialfest/static/media/final.1bd7d4c2627ae21796fbffaea57ae8ff.svg",
     "static/media/about.png": "/socialfest/static/media/about.b6aae605e6c2633026e2.png",
     "static/media/dow.png": "/socialfest/static/media/dow.4d59d4d7dfd9586a2191.png",
     "index.html": "/socialfest/index.html",
     "static/media/person.svg": "/socialfest/static/media/person.1bde0610db92d7c5284d42693c0b6eaa.svg",
-    "main.ac90711f.css.map": "/socialfest/static/css/main.ac90711f.css.map",
-    "main.69faf29f.js.map": "/socialfest/static/js/main.69faf29f.js.map",
+    "main.06a2540a.css.map": "/socialfest/static/css/main.06a2540a.css.map",
+    "main.87679379.js.map": "/socialfest/static/js/main.87679379.js.map",
     "787.d1a50706.chunk.js.map": "/socialfest/static/js/787.d1a50706.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac90711f.css",
-    "static/js/main.69faf29f.js"
+    "static/css/main.06a2540a.css",
+    "static/js/main.87679379.js"
   ]
 }
