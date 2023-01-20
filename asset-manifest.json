@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/socialfest/static/css/main.06a2540a.css",
-    "main.js": "/socialfest/static/js/main.87679379.js",
+    "main.css": "/socialfest/static/css/main.da9b8b92.css",
+    "main.js": "/socialfest/static/js/main.1c4bc816.js",
     "static/js/787.d1a50706.chunk.js": "/socialfest/static/js/787.d1a50706.chunk.js",
     "static/media/concert.png": "/socialfest/static/media/concert.0d869aa21741b59406df.png",
     "static/media/expo.png": "/socialfest/static/media/expo.e17ef4ccab4b04a7a889.png",
@@ -37,12 +37,12 @@
     "static/media/dow.png": "/socialfest/static/media/dow.4d59d4d7dfd9586a2191.png",
     "index.html": "/socialfest/index.html",
     "static/media/person.svg": "/socialfest/static/media/person.1bde0610db92d7c5284d42693c0b6eaa.svg",
-    "main.06a2540a.css.map": "/socialfest/static/css/main.06a2540a.css.map",
-    "main.87679379.js.map": "/socialfest/static/js/main.87679379.js.map",
+    "main.da9b8b92.css.map": "/socialfest/static/css/main.da9b8b92.css.map",
+    "main.1c4bc816.js.map": "/socialfest/static/js/main.1c4bc816.js.map",
     "787.d1a50706.chunk.js.map": "/socialfest/static/js/787.d1a50706.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.06a2540a.css",
-    "static/js/main.87679379.js"
+    "static/css/main.da9b8b92.css",
+    "static/js/main.1c4bc816.js"
   ]
 }
